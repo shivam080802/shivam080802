@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">Frontend Develpoer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam080802&label=Profile%20views&color=0e75b6&style=flat" alt="shivam080802" /> </p>
 
