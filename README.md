@@ -1,25 +1,63 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam080802&label=Profile%20views&color=0e75b6&style=flat" alt="shivam080802" /> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivam-pandey-65966a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-pandey-65966a214" height="30" width="40" /></a>
-<a href="https://instagram.com/__.shivam.__0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.shivam.__0808" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivam080802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivam080802" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/piyushpand2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyushpand2207" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivam0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam0808" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/piyushpand2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyushpand2207" height="30" width="40" /></a>
+<p align="center">
+  Full-Stack Engineer · Backend Engineering · AI Engineering · Web3
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:shivam.pandey080802@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/shivam-pandey-65966a214">LinkedIn</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam080802&show_icons=true&locale=en&layout=compact" alt="shivam080802" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam080802&show_icons=true&locale=en" alt="shivam080802" /></p>
+### About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam080802&" alt="shivam080802" /></p>
+I'm a software engineer with experience building and operating production systems across **full-stack development, backend architecture, AI/agentic systems, and blockchain applications**.
+
+- Building scalable full-stack products with **JavaScript, TypeScript, React, Next.js, Node.js, NestJS, GraphQL, and PostgreSQL**
+- Building Python backends with **FastAPI, Django, Django REST Framework, Celery, Redis, and MongoDB**
+- Working on production AI systems involving **RAG, AI agents, LangChain, LangGraph, Langfuse, MCP, vector databases, guardrails, voice agents, and enterprise integrations**
+- Designing **event-driven and asynchronous systems** using Kafka, BullMQ, Celery, Redis, workers, caching, WebSockets, and background processing
+- Experienced with **multi-tenancy, RBAC, SSO, microservices, monorepos, CI/CD, release management, and production debugging**
+- Building Web3 products with **Polkadot.js, Web3.js, Ethers.js, MetaMask, Privy, RPC integrations, event indexing, smart wallets, and EVM contract interaction**
+- Leading engineering delivery, reviewing PRs, mentoring developers/interns, participating in architecture/design decisions, interviewing candidates, and communicating directly with clients
+
+### AI Engineering
+
+I have worked on AI products including:
+
+- Enterprise platforms for creating configurable AI agents with tools, external data sources, RBAC, multi-tenancy, scheduled routines, and agent-to-agent delegation
+- End-to-end RAG systems covering document ingestion, chunking, retrieval, vector search, memory, feedback loops, and grounded responses
+- Real-time voice sales agents using historical transcripts and product knowledge
+- AI-powered business intelligence agents that unify data across SaaS applications and surface actionable insights
+- Autonomous commerce workflows with buyer/seller agents, negotiation, memory, product discovery, and browser-extension integrations
+- AI-enabled interview and assessment workflows including AI chat, AI grading, proctoring, and MCP-based automation
+
+### Core Stack
+
+**JavaScript / TypeScript**  
+JavaScript · TypeScript · React · Next.js · Angular · Node.js · NestJS · Express.js · GraphQL · NexusJS · TanStack Query · Apollo Client · Zustand · Tailwind CSS · shadcn/ui
+
+**Python / Backend**  
+Python · FastAPI · Django · Django REST Framework · Pydantic · SQLAlchemy · REST APIs · Celery
+
+**AI Engineering**  
+RAG · AI Agents · LangChain · LangGraph · Langfuse · MCP · Weaviate · OpenAI SDK · Anthropic · LiveKit · Vector Search · Guardrails · Intent Detection
+
+**Data & Messaging**  
+PostgreSQL · MySQL · MongoDB · Redis · InfluxDB · Kafka · BullMQ · Prisma · TypeORM
+
+**Blockchain / Web3**  
+Polkadot.js · Web3.js · Ethers.js · MetaMask · Privy · RPC Integrations · Event Indexing · Smart Wallets · EVM Contract Interaction
+
+**Architecture & Tooling**  
+Microservices · Event-Driven Architecture · Multi-Tenancy · RBAC · Keycloak · WebSockets · Turborepo · Nx · pnpm Workspaces · CI/CD · Git · Cypress · Postman
+
+### Engineering focus
+
+I enjoy working on systems where product engineering and architecture meet—especially **AI-native applications, distributed backend workflows, real-time systems, developer tooling, and scalable full-stack products**.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam080802&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
