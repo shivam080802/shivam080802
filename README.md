@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 
 <p align="center">
-  Full-Stack Engineer · Backend Engineering · AI Engineering · Web3
+  Full-Stack Engineer · AI Engineering · Web3
 </p>
 
 <p align="center">
